@@ -3,6 +3,18 @@ This is a repo for Foundations of Software Engineering project.
 
 Simple matrix multiplication parallelized algo using OpenMP library and Matrix dataclass https://github.com/pwwiur/Matrix
 
+### Project group
+Anastasiia Demidova
+Anastasia Archangelskaya
+Dmitriy Kornilov
+Islomjon Shukhratov
+Kholkin Sergei
+Maksim Bobrin
+Melaku Getahun
+Mohammed Hammoud
+Nikita Bogdanov
+
+
 ### Project structure
 * main.cpp - example of usage
 * Matrix.h - realization of matrix class
